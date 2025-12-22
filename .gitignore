@@ -1,0 +1,4 @@
+.venv/
+Multi-class Weather Dataset/
+.ipynb_checkpionts/
+__pycache__/
