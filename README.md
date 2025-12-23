@@ -1,1 +1,1 @@
-Greetings. The goal of this project is to honestly just make sure i have the pytorch fundamentals down with CNN so i can move onto bigger and better projects. For pretty much the last 4-5 months Of me learning ML i only really used regression models. ANd for learning pytorch I've only ever built image classfications. And with Image classifcation most of these were in kaggle notebooks
+Greetings. This is a basic ai i made that can classify weather images!!!!!!!!!!!!!!
